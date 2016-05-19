@@ -20,3 +20,6 @@ user> Perfect!
 -- 
 
 Don't forget to train using...what, beer advocate for notes?  Interesting thought.
+
+BA tie in is good- be able to ask the bot for ratings.  "What was the BA rating of that deschutes (you just mentioned)" that's a nicety, adds to the 'realness'
+
