@@ -16,3 +16,7 @@ Beerbot> Loyal Legion just tapped Gigantic's IPA.
 
 user> Perfect!
 
+
+-- 
+
+Don't forget to train using...what, beer advocate for notes?  Interesting thought.
